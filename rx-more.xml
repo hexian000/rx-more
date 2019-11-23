@@ -1,0 +1,3 @@
+<prescriptions xmlns="http://greenify.github.io/schemas/prescription/v3">
+  <prescription package="com.xiaomi.hm.health" type="service" class="com.xiaomi.push.service.XMPushService" sender="any"/>
+</prescriptions>
